@@ -5,5 +5,5 @@
 5. Create a new project and search for the "Minimal" template
 
 Example:
-* Download https://github.com/makolyte/dotnet-templates-nonminimal/DotNet6/ConsoleApp/ConsoleApp-NonMinimal.zip
+* Download https://github.com/makolyte/dotnet-templates-nonminimal/blob/main/DotNet6/ConsoleApp/ConsoleApp-NonMinimal-DotNet6.zip
 * Put it here: C:\Users\makolyte\Documents\Visual Studio 2022\Templates\ProjectTemplates
