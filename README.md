@@ -1,3 +1,10 @@
+# Non-minimal project templates
+Project templates are organized by target framework and project type.
+
+Current templates:
+* /DotNet6/ConsoleApp/
+* /DotNet6/AspNetCoreWebAPI/
+
 # Import a project template
 1. Download the project template zip file you want (ex: DotNet6/ConsoleApp-NonMinimal.zip)
 2. Put it here: %USERPROFILE%\Documents\<Visual Studio version>\Templates\ProjectTemplates\ 
